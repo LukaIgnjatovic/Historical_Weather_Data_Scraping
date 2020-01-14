@@ -1,2 +1,2 @@
 # Historical Weather Data Scraping
-Script that uses [WWO](https://www.worldweatheronline.com/)'s free API to scrape historical weather data.
+This Jupyter Notebook that uses [World Weather Online](https://www.worldweatheronline.com/)'s API to scrape historical weather data.
